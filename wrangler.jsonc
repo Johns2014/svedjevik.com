@@ -1,7 +1,4 @@
 {
-  "name": "svedjevikcom2",
-  "compatibility_date": "2026-10-19",
-  "assets": {
-    "directory": "."
-  }
+  "name": "svedjevikcom",
+  "pages_build_output_dir": "."
 }
